@@ -3,3 +3,4 @@
 ### Nombre en ingles: C37-SpeedRacer_ReferenceCode
 
 Etapa 2
+![carros 2](https://user-images.githubusercontent.com/86745430/227080167-339cda3b-7d75-40af-8104-0f3dc26de403.jpg)
